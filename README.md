@@ -9,16 +9,16 @@
 </div>
 
 <div id="badges" align="center">
-  <a href="https://usepgnwan.github.io/" _target="blank">
+  <a href="https://usepgnwan.github.io/" target="_blank">
     <img src="https://img.shields.io/badge/Portofolio-4285F4?style=for-the-badge&logo=Google-chrome&logoColor=white" alt="Portofolio Badge"/>
   </a>
-  <a href="https://www.linkedin.com/in/usep-gnwan-6b17592a3/" _target="blank>
+  <a href="https://www.linkedin.com/in/usep-gnwan-6b17592a3/"target="_blank">
     <img src="https://img.shields.io/badge/LinkedIn-blue?style=for-the-badge&logo=linkedin&logoColor=white" alt="LinkedIn Badge"/>
   </a>
-  <a href="https://github.com/usepgnwan" _target="blank>
+  <a href="https://github.com/usepgnwan" target="_blank">
     <img src="https://img.shields.io/badge/Github-black?style=for-the-badge&logo=Github&logoColor=white" alt="Github Badge"/>
   </a>
-  <a href="https://gitlab.com/usepgnwan" _target="blank>
+  <a href="https://gitlab.com/usepgnwan" target="_blank">
     <img src="https://img.shields.io/badge/GitLab-330F63?style=for-the-badge&logo=gitlab&logoColor=white" alt="Github Badge"/>
   </a> 
 </div>
