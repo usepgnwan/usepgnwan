@@ -10,7 +10,7 @@
 
 <div id="badges" align="center">
   <a href="https://usepgnwan.github.io/">
-    <img src=" 	https://img.shields.io/badge/Portofolio-4285F4?style=for-the-badge&logo=Google-chrome&logoColor=white" alt="Portofolio Badge"/>
+    <img src="https://img.shields.io/badge/Portofolio-4285F4?style=for-the-badge&logo=Google-chrome&logoColor=white" alt="Portofolio Badge"/>
   </a>
   <a href="https://www.linkedin.com/in/usep-gnwan-6b17592a3/">
     <img src="https://img.shields.io/badge/LinkedIn-blue?style=for-the-badge&logo=linkedin&logoColor=white" alt="LinkedIn Badge"/>
@@ -19,7 +19,7 @@
     <img src="https://img.shields.io/badge/Github-black?style=for-the-badge&logo=Github&logoColor=white" alt="Github Badge"/>
   </a>
   <a href="https://gitlab.com/usepgnwan">
-    <img src="	https://img.shields.io/badge/GitLab-330F63?style=for-the-badge&logo=gitlab&logoColor=white" alt="Github Badge"/>
+    <img src="https://img.shields.io/badge/GitLab-330F63?style=for-the-badge&logo=gitlab&logoColor=white" alt="Github Badge"/>
   </a> 
 </div>
 
