@@ -29,4 +29,4 @@
 
 ### About Me
 
-I’m porgrammer base in jakarta. I have high motivation and discipline. I’m a web programmer based on php, html, javascript and others. I am the type of person who likes to make the most of opportunities and always wants to learn about new things. I can work independently or work in a team.
+I’m porgrammer base in jakarta. I have high motivation and discipline. I’m a web programmer based on php, html, javascript and others. I am the type of person who likes to make the most of opportunities and always wants to learn about new things. I can work independently or work in a team. My expertise includes implementing frontend using Bootstrap, Tailwind, Css, Javascript. In addition, I am also experienced in working with Laravel backend framework, Vue framework, livewire and CodeIgniter (CI). 
